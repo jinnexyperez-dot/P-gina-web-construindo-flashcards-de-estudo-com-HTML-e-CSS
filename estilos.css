@@ -38,8 +38,11 @@ main {
 
 h1 {
     color: #fff;
+    font-size: 18px;
 }
 
 footer {
     background-color: #1c498d;
+    padding: 15px 25px;
+    color: #fff;
 }
